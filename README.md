@@ -1,6 +1,4 @@
-markdown
-Copy
-Edit
+
 # 🧬 Breast Cancer Detection
 
 This project focuses on building a machine learning model to **detect breast cancer** using clinical data. The goal is to classify tumors as **malignant** or **benign** based on features derived from cell nuclei present in digitized images.
